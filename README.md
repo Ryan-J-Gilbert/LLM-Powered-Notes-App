@@ -1,5 +1,7 @@
 # LLM-Powered Notes App
 
+![Screenshot of the LLM-Powered Notes App](screenshot.png)
+
 ## Overview
 
 This is a Tkinter-based note-taking application enhanced with LLM (Large Language Model) capabilities, allowing users to receive autocompletion suggestions based on their inputs. The app allows users to write notes, save files, open existing files, and undo changes. Users can also select from different LLM models to provide note suggestions, such as completing sentences, adding more information, or filling in placeholders.
